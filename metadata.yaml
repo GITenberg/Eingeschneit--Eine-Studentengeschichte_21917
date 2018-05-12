@@ -1,0 +1,37 @@
+_repo: Eingeschneit--Eine-Studentengeschichte_21917
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frommel, Emil
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '24965'
+    url: http://www.gutenberg.org/2009/agents/24965
+    wikipedia: http://de.wikipedia.org/wiki/Emil_Frommel
+  editor:
+    agent_name: Bernhardt, Wilhelm
+    deathdate: 1909
+    gutenberg_agent_id: '24966'
+    url: http://www.gutenberg.org/2009/agents/24966
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21917'
+language:
+- en
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Austria -- Fiction'
+- !lcsh 'German language -- Readers -- English'
+title: 'Eingeschneit: Eine Studentengeschichte'
+url: http://www.gutenberg.org/ebooks/21917
